@@ -5,6 +5,9 @@ Hi there👋 and 🙋‍♀️ Welcome to the PVHS PVIT VEX Github site
 - cMake Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools
 - Make File Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools
 
+You can find a template for your digital notebooks here: 
+- Notebooks: https://github.com/Palos-Verdes-High-School-VEX/Digital-Notebooks
+
 <!--
 
 -->
