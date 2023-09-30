@@ -13,6 +13,8 @@ You can find your code by team here:
 - <a href=https://github.com/Palos-Verdes-High-School-VEX/62019K>62019K</a>
 - <a href=https://github.com/Palos-Verdes-High-School-VEX/62019X>62019X</a>
 - <a href=https://github.com/Palos-Verdes-High-School-VEX/62019Z>62019Z</a>
+
+Misc Notes: <a href="https://1drv.ms/o/s!AlHtdHcnx986hqwK17zmgt7H6UyS6A?e=aAuoBZ">VEX One Note File</a>
 <!--
 
 -->
