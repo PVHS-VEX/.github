@@ -1,4 +1,8 @@
 Hi there👋 and 🙋‍♀️ Welcome to the PVHS PVIT VEX Github site
+
+Timelines: https://github.com/orgs/PVHS-VEX/projects/1
+
+For Developers:
 - Gethub Student Licensing: https://education.github.com/pack
 - Visual Sutdio Code Download: https://code.visualstudio.com/Download
 - Git Tool: https://git-scm.com/download/win
