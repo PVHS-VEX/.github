@@ -9,6 +9,7 @@ Hi there👋 and 🙋‍♀️ Welcome to the PVHS PVIT VEX Github site
 General Information is here: 
 - <a href=https://github.com//PVHS-VEX/Digital-Notebooks>Notebooks</a>
 - <a href=https://github.com/PVHS-VEX/Rules>Rules & Rubrics</a>
+- Discord Server: https://discord.gg/mjMKUpsw
 
 You can find your code by team here:
 - <a href=https://github.com/PVHS-VEX/62019A>62019A</a>
