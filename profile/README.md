@@ -1,6 +1,7 @@
 Hi there👋 and 🙋‍♀️ Welcome to the PVHS PVIT VEX Github site
 - Gethub Student Licensing: https://education.github.com/pack
 - Visual Sutdio Code Download: https://code.visualstudio.com/Download
+- GitHub Plugin: https://git-scm.com/download/win
 - VEX Plugin: https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode
 - C++ Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 - cMake Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools
