@@ -7,14 +7,14 @@ Hi there👋 and 🙋‍♀️ Welcome to the PVHS PVIT VEX Github site
 - Make File Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools
 
 General Information is here: 
-- Notebooks: https://github.com/Palos-Verdes-High-School-VEX/Digital-Notebooks
+- Notebooks: https://github.com//PVHS-VEX/Digital-Notebooks
 - Rules & Rubrics: https://github.com/PVHS-VEX/Rules
 
 You can find your code by team here:
-- <a href=https://github.com/Palos-Verdes-High-School-VEX/62019A>62019A</a>
-- <a href=https://github.com/Palos-Verdes-High-School-VEX/62019K>62019K</a>
-- <a href=https://github.com/Palos-Verdes-High-School-VEX/62019X>62019X</a>
-- <a href=https://github.com/Palos-Verdes-High-School-VEX/62019Z>62019Z</a>
+- <a href=https://github.com/PVHS-VEX/62019A>62019A</a>
+- <a href=https://github.com/PVHS-VEX/62019K>62019K</a>
+- <a href=https://github.com/PVHS-VEX/62019X>62019X</a>
+- <a href=https://github.com/PVHS-VEX/62019Z>62019Z</a>
 
 Misc Notes: <a href="https://1drv.ms/o/s!AlHtdHcnx986hqwK17zmgt7H6UyS6A?e=aAuoBZ">VEX One Note File</a>
 <!--
