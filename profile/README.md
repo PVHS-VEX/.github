@@ -4,13 +4,14 @@ Timelines: https://github.com/orgs/PVHS-VEX/projects/1
 
 For Developers:
 - Gethub Student Licensing: https://education.github.com/pack
-- VEX Pros - https://pros.cs.purdue.edu/v5/getting-started/windows.html
 - Visual Sutdio Code Download: https://code.visualstudio.com/Download
 - Git Tool: https://git-scm.com/download/win
 - VEX Plugin: https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode
+- Vex PROS Plugin: https://marketplace.visualstudio.com/items?itemName=sigbots.pros
 - C++ Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 - cMake Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools
 - Make File Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools
+- VEX Pros Full Library - https://pros.cs.purdue.edu/v5/getting-started/windows.html
 
 General Information is here: 
 - <a href=https://github.com//PVHS-VEX/Digital-Notebooks>Notebooks</a>
