@@ -11,7 +11,10 @@ For Developers:
 - C++ Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 - cMake Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools
 - Make File Tools Plugin: https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools
+
+Optional
 - VEX Pros Full Library - https://pros.cs.purdue.edu/v5/getting-started/windows.html
+- Vex Pros API Documentation: https://pros.cs.purdue.edu/v5/api/cpp/index.html
 
 General Information is here: 
 - <a href=https://github.com//PVHS-VEX/Digital-Notebooks>Notebooks</a>
