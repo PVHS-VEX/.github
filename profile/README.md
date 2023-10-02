@@ -4,6 +4,7 @@ Timelines: https://github.com/orgs/PVHS-VEX/projects/1
 
 For Developers:
 - Gethub Student Licensing: https://education.github.com/pack
+- VEX Pros - https://pros.cs.purdue.edu/v5/getting-started/windows.html
 - Visual Sutdio Code Download: https://code.visualstudio.com/Download
 - Git Tool: https://git-scm.com/download/win
 - VEX Plugin: https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode
